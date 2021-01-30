@@ -9,8 +9,3 @@ A few months later I found myself in Washington, DC at Gallup where my coding ca
 starting to learn how to code, let me share this with you: May this repo server as an inspiration for you to keep working at it. Heck, I'm sure you're
 already a better coder than me :)
 
-
-Cheers,
-Derek Herincx
-
-01-30-2021
